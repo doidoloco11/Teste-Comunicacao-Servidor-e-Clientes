@@ -19,7 +19,8 @@ class Program
 
         if (cs == "Servidor")
         {
-            new Servidor();
+            Int32.TryParse(Read("Digite a Porta do Servidor(Se não escrever nada Sera 8080): "), out int porta);
+            new Servidor(porta == 0 ? 8080: porta);
         }
         else if (cs == "Cliente")
         {
