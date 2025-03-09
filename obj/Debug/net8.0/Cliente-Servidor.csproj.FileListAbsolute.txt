@@ -1,0 +1,14 @@
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\bin\Debug\net8.0\Cliente-Servidor.exe
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\bin\Debug\net8.0\Cliente-Servidor.deps.json
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\bin\Debug\net8.0\Cliente-Servidor.runtimeconfig.json
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\bin\Debug\net8.0\Cliente-Servidor.dll
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\bin\Debug\net8.0\Cliente-Servidor.pdb
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.dll
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\refint\Cliente-Servidor.dll
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.pdb
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\Cliente-Servidor.genruntimeconfig.cache
+C:\Users\mathe\RiderProjects\Cliente-Servidor\Cliente-Servidor\obj\Debug\net8.0\ref\Cliente-Servidor.dll
